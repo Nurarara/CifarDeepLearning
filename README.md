@@ -1,6 +1,4 @@
 📊 CIFAR-10 Image Classification using Custom Neural Network Architecture
-Module: Neural Networks and Deep Learning (ECS7026P)
-Author: [Your Name] | Student ID: [Your ID]
 
 📌 Overview
 This project implements a custom neural network architecture for image classification on the CIFAR-10 dataset using PyTorch. The architecture follows a specific design involving weighted combinations of parallel convolutional layers and aims to achieve high accuracy through systematic training and hyperparameter tuning.
@@ -46,7 +44,7 @@ Output Shape: (Batch Size, 10)
 
 Optimization: SGD/Adam (tuned via experiments)
 
-Training Techniques: Batch normalization, dropout, learning rate scheduling, data augmentation (Week 6 & 8 techniques).
+Training Techniques: Batch normalization, dropout, learning rate scheduling, data augmentation.
 
 🚀 Experiments & Results
 Initial implementation tested with basic hyperparameters.
